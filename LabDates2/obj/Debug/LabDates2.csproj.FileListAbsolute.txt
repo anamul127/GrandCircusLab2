@@ -1,0 +1,7 @@
+C:\Users\Anamul\source\repos\LabDates2\LabDates2\bin\Debug\LabDates2.exe.config
+C:\Users\Anamul\source\repos\LabDates2\LabDates2\bin\Debug\LabDates2.exe
+C:\Users\Anamul\source\repos\LabDates2\LabDates2\bin\Debug\LabDates2.pdb
+C:\Users\Anamul\source\repos\LabDates2\LabDates2\obj\Debug\LabDates2.csprojResolveAssemblyReference.cache
+C:\Users\Anamul\source\repos\LabDates2\LabDates2\obj\Debug\LabDates2.csproj.CoreCompileInputs.cache
+C:\Users\Anamul\source\repos\LabDates2\LabDates2\obj\Debug\LabDates2.exe
+C:\Users\Anamul\source\repos\LabDates2\LabDates2\obj\Debug\LabDates2.pdb
